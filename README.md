@@ -3,7 +3,7 @@ KEN Labs now maintaining 2 STI nodes.
 
 | Node ID | API URL                                                      | Status |
 | ------- | ------------------------------------------------------------ | ------ |
-| Node01  | Finder: http://18.118.207.252:3000<br />Ingest: http://18.118.207.252:3001<br />P2P: 18.118.207.252:3003 | Active |
+| Node01  | Finder: https://index-finder.kencloud.com<br />Ingest: http://18.118.207.252:3001<br />P2P: 18.118.207.252:3003 | Active |
 | Node02  | Finder: http://18.118.207.252:4000<br />Ingest: http://18.118.207.252:4001<br />P2P: 18.118.207.252:4003 | Active |
 
 Please contact with us if you have any questions: 
